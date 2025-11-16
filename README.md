@@ -53,9 +53,9 @@ ment**.
 
 ### 🔹 **SpendCraft — Advanced Expense Tracker**
 > Offline-first • Budget tracking • Charts • CSV/JSON import/export • Stunning UI  
-🔗 _Add your repo link here_
+
 
 ### 🔹 **TMDB Movie Browser**
 > A smooth, responsive movie browser that consumes The Movie Database (TMDB) API.  
 **Tech stack:** React • Vite • TypeScript  
-Features: s
+
