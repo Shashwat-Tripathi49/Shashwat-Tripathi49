@@ -18,9 +18,10 @@ I specialize in:
 - ⚛️ React & Next.js  
 - 🟦 JavaScript & TypeScript  
 - 🟢 Node.js + Express  
-- 🍃 MongoDB  
+- 🍃 MongoDB + MySQL
 
-🌱 Currently learning **system design**, **scalable architectures** & **cloud deployments**.
+🌱 Currently learning **system design**, **scalable architectures** & **full stack deployment**
+ment**.
 
 ---
 
