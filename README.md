@@ -1,57 +1,60 @@
-<h1 align="center">Hey 👋 What's Up? I'm <strong>Shashwat Tripathi</strong></h1>
+<!-- Cartoon-style professional GIF banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="cartoon-dev-banner"/>
+</p>
 
-###
+<h1 align="center">✨ Hey, I'm <strong>Shashwat Tripathi</strong> ✨</h1>
+<p align="center">
+  <em>Full-Stack JavaScript Developer • React • Next.js • Node.js • MongoDB</em>
+</p>
 
-<div align="center">
-  <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-</div>
+---
 
-###
+## 🎯 About Me
+I'm a passionate **full-stack web developer** who loves building clean, fast and modern web applications.
+
+I specialize in:
+
+- ⚛️ React & Next.js  
+- 🟦 JavaScript & TypeScript  
+- 🟢 Node.js + Express  
+- 🍃 MongoDB  
+
+🌱 Currently learning **system design**, **scalable architectures** & **cloud deployments**.
+
+---
+
+# ⚡ Skills & Technologies
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shashwat-tripathi-41a8a9298">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://twitter.com/shashwa18090461">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,vite,git,github,c,cpp,firebase" height="65" />
 </div>
 
-###
+---
+
+# 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashwat-Tripathi49&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Shashwat-Tripathi49&theme=dracula&row=1&column=3&margin-w=8&margin-h=8" height="150" />
+
+  <img height="150" src="https://streak-stats.demolab.com?user=Shashwat-Tripathi49&theme=highcontrast&hide_border=true" />
+
+  <img height="150" src="https://github-profile-trophy.vercel.app?username=Shashwat-Tripathi49&theme=onestar&margin-w=8&margin-h=8" />
+
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Shashwat-Tripathi49&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Tripathi49&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
+
+# 🚀 Featured Projects
+
+### 🔹 **SpendCraft — Advanced Expense Tracker**
+> Offline-first • Budget tracking • Charts • CSV/JSON import/export • Stunning UI  
+🔗 _Add your repo link here_
+
+### 🔹 **TMDB Movie Browser**
+> A smooth, responsive movie browser that consumes The Movie Database (TMDB) API.  
+**Tech stack:** React • Vite • TypeScript  
+Features: s
