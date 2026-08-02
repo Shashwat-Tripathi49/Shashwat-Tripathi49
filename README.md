@@ -1,117 +1,138 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Shashwat%20Tripathi&fontSize=50&theme=dark&fontColor=58a6ff" alt="Shashwat Tripathi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2c2e,100:0d1117&height=160&section=header&text=Shashwat%20Tripathi&fontSize=44&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Engineer;Frontend+%26+Testing+Specialist;Real-World+Product+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=2dd4bf&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+Next.js+Engineer;I+break+things+so+users+don't+have+to;Shipping+real+products+%3E+tutorial+hell" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:shashwatt49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shashwatt49@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-shashwatt49@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://img.shields.io/badge/GitHub-Shashwat--Tripathi--49-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Shashwat--Tripathi49-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👋 About Me
 
-I'm a **Full Stack Developer** with a strong foundation in building performant, user-focused web applications. As a student, I've already made meaningful contributions to **real-world, production-grade products** — from hyperlocal e-commerce platforms to personal finance tools. My focus lies in crafting clean UI, writing reliable tests, and shipping features that actually work in the hands of real users.
+I'm **Shashwat**, a full-stack developer who believes the best way to learn is to ship things that real people actually use.
 
-* 🚀 **Production Experience:** Contributed to and deployed a real-world e-commerce application used by live customers.
-* ⚛️ **Frontend Craft:** Specialize in building fast, responsive, and maintainable interfaces with **React & Next.js**.
-* 🧪 **Quality Mindset:** Committed to testing as a first-class engineering concern — not an afterthought.
-* 📊 **Product Thinking:** I build with the end-user in mind, focusing on clarity, usability, and real utility.
+While still a student, I've already worked on production systems — from a live hyperlocal e-commerce platform to personal finance tools. I care deeply about clean interfaces, reliable code, and features that don't fall apart the moment a real user touches them.
 
----
-
-### 🛠️ Tech Stack & Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Redux Toolkit, React Query |
-| **Backend & APIs** | Node.js, Firebase, REST APIs |
-| **Testing** | Jest, React Testing Library, Manual QA |
-| **Tools & DevOps** | Git, GitHub Actions, Vercel, Figma |
-| **Databases** | Firebase Firestore, Supabase |
+**Currently focused on:**
+- Building thoughtful frontend experiences with **React & Next.js**
+- Treating testing as a first-class citizen (not a last-minute chore)
+- Turning ideas into products that feel polished and intentional
 
 ---
 
-### 🏆 Project Showcase
+### 🛠️ What I Work With
 
-<table width="100%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,firebase,jest,git,github,vercel,figma&theme=dark" alt="Tech Stack" />
+</p>
+
+| Area              | Tools                                      |
+|-------------------|--------------------------------------------|
+| **Frontend**      | React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, React Query |
+| **Backend**       | Node.js, Firebase, REST APIs               |
+| **Testing**       | Jest, React Testing Library                |
+| **Platform**      | Vercel, GitHub Actions, Figma              |
+| **Databases**     | Firestore, Supabase                        |
+
+---
+
+### 🚀 Featured Work
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 SuperG — Hyperlocal E-Commerce Platform</h4>
-      <p><em>Frontend Contributor & QA Engineer</em></p>
-      <ul>
-        <li><strong>Tech Stack:</strong> Next.js, Redux Toolkit, React Query, Firebase, Android Studio (Java).</li>
-        <li><strong>My Contribution:</strong> Worked on the frontend UI and led testing efforts to ensure reliability across the customer-facing web experience.</li>
-        <li><strong>Impact:</strong> Helped ship a production-grade hyperlocal marketplace with real-time delivery radius routing and geographic fencing, serving live customers.</li>
-      </ul>
-      <p><a href="https://www.superg.in/"><strong>🔗 superg.in</strong></a></p>
+    <td width="50%">
+      <h3>🛒 SuperG</h3>
+      <p><strong>Hyperlocal E-Commerce Platform</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role-Frontend+%26+QA-2dd4bf?style=flat-square" />
+      </p>
+      <p>
+        Contributed to a production marketplace with real customers. Worked on the customer-facing UI and led testing efforts to keep the experience stable under real usage.
+      </p>
+      <p>
+        <strong>Highlights:</strong> Real-time delivery radius, geographic fencing, reliable frontend flows.
+      </p>
+      <p>
+        🔗 <a href="https://www.superg.in/"><b>superg.in</b></a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>💸 ExpenseIQ — Smart Expense Tracker</h4>
-      <p><em>Solo Project · Built End-to-End</em></p>
-      <ul>
-        <li><strong>Tech Stack:</strong> React.js, Recharts, Firebase, Tailwind CSS.</li>
-        <li><strong>Features:</strong> Track and monitor all your expenses, categorise spending into custom segments, visualise expenditure breakdowns, and export your data as a downloadable report.</li>
-        <li><strong>Architecture:</strong> Segment-based data model with real-time sync, interactive charts for spending insights, and a clean export pipeline for CSV/PDF downloads.</li>
-      </ul>
+    <td width="50%">
+      <h3>💸 ExpenseIQ</h3>
+      <p><strong>Smart Expense Tracker</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Solo+Project-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role-Full+Stack-2dd4bf?style=flat-square" />
+      </p>
+      <p>
+        Built end-to-end. Track expenses, create custom categories, visualize spending patterns, and export clean reports.
+      </p>
+      <p>
+        <strong>Highlights:</strong> Segment-based architecture, interactive charts (Recharts), real-time sync, export pipeline.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛡️ Engineering Philosophy
+### 🧩 How I Think About Building Software
 
-* **Ship with Confidence:** I treat testing as part of development, not something bolted on at the end. If it isn't tested, it isn't done.
-* **Users First:** Good code means nothing if the interface confuses the person using it. I obsess over UX clarity and interaction quality.
-* **Keep It Maintainable:** Clean, readable code that the next developer (or future me) can actually understand and build on.
-* **Learn by Building:** The fastest way to grow is to work on real products with real users. Theory is the starting point — production is where you learn.
+- **Test like a pessimist, design like an optimist**  
+  I assume things will break — then I write tests so they don’t.
 
----
+- **Clarity over cleverness**  
+  Code should be easy for future-me (and other humans) to understand.
 
-### 📊 GitHub Stats
+- **Users don’t care about your architecture**  
+  They care whether the button works and the page feels fast.
 
-<p align="center">
-  <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-Tripathi49&theme=radical" width="98%" alt="GitHub Profile Details" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashwat-Tripathi49&theme=radical" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashwat-Tripathi49&theme=radical" width="48%" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://streak-stats.demolab.com/?user=Shashwat-Tripathi49&theme=dark&background=0d1117&fire=58a6ff&ring=58a6ff&stroke=30363d&border=30363d&currStreakNum=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9" width="97%" alt="Streak Stats" />
-  </a>
-</p>
+- **Ship → Learn → Improve**  
+  Real products teach faster than any tutorial ever will.
 
 ---
 
-### 📈 Activity Graph
+### 📊 GitHub Snapshot
 
 <p align="center">
-  <a href="https://github.com/Shashwat-Tripathi49">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-Tripathi49&theme=react-dark&bg_color=0d1117&hide_border=true" width="98%" alt="GitHub Activity Graph" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-Tripathi49&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashwat-Tripathi49&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashwat-Tripathi49&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shashwat-Tripathi49&theme=dark&background=0d1117&fire=2dd4bf&ring=2dd4bf&stroke=30363d&border=30363d&currStreakNum=2dd4bf&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=c9d1d9" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-Tripathi49&theme=react-dark&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>💼 Open to internships, collaborations, and open-source contributions. Let's build something great!</strong>
+  <img src="https://img.shields.io/badge/Open_to-Internships-2dd4bf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-0d9488?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Open_Source-0d1117?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <b>Let’s build something that people actually enjoy using.</b><br>
+  <a href="mailto:shashwatt49@gmail.com">shashwatt49@gmail.com</a>
 </p>
